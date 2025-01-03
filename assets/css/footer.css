@@ -196,9 +196,7 @@
     margin-bottom: 0;
 }
 
-.footer .copyright p a {
-    text-transform: lowercase;
-}
+
 
 .footer .footer-nav-bottom ul li a {
     color: var(--color-white);
