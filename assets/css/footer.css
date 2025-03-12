@@ -9,6 +9,12 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+@media (max-width: 768px) {
+    .footer {
+        margin-bottom: 60px;
+    }
+}
 .footer .footer-top{
     padding: 100px 0px;
 }
